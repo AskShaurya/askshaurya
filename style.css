@@ -4,3 +4,8 @@ body {
     text-align: center;
     padding-top: 50px;
 }
+ <head>
+   <style>
+       hi { colour: blue; }
+   </style>
+ </head>
