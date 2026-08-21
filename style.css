@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Coolvetica&family=Sweet+Cucumber+Mocktail&family=papernotes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Coolvetica&display=swap');
 
 body {
-    font-family: Coolvetica, Sweet Cucumber Mocktail, Papernotes;
+    font-family: Coolvetica;
     background-color: #36454F;
     color: white;
     text-align: center;
