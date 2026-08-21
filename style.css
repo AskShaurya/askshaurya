@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&family=Unica+One&display=swap');
+
 body {
-    font-family: unica one, paytone one;
+    font-family: Unica One, Paytone One, san-serif;
     background-color: #36454F;
     color: white;
     text-align: center;
