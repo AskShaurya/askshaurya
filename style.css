@@ -4,6 +4,11 @@ body {
     text-align: center;
     padding-top: 50px;
 }
-       h1{ color: blue; 
+       h1 { color: charcoal; 
 }
-
+       p {
+           line-height; 1.2 
+}
+       h1 {
+           line-height; 1.1
+}
